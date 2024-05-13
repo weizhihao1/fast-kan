@@ -1,0 +1,3 @@
+cd fast-kan
+conda activate fastkan
+CUDA_VISIBLE_DEVICES=2 python train_cifar10.py
